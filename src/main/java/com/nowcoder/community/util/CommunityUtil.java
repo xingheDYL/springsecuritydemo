@@ -3,6 +3,9 @@ package com.nowcoder.community.util;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.util.DigestUtils;
 
+/**
+ * @author admin
+ */
 public class CommunityUtil {
 
     public static String md5(String key) {
